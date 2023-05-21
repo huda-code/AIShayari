@@ -1,0 +1,43 @@
+[
+  {
+    "shayari": "Jab tum mere saath ho, har pal khushiyan mere paas hoti hain, tumse milne ke baad mujhe duniya ki koi cheez buri nahi lagti hai. (When you're with me, every moment brings happiness, after meeting you, nothing in the world seems bad.)",
+    "topic": "Happiness",
+    "emotion": "Joy"
+  },
+  {
+    "shayari": "Mere dil ki har khwahish poori ho jaati hai, jab tum mere saath ho, tumhare bina zindagi adhoori si lagti hai, tumhari muskurahat se mujhe khushiyan milti hain. (Every wish of my heart comes true when you're with me, life feels incomplete without you, your smile brings me happiness.)",
+    "topic": "Love",
+    "emotion": "Happiness"
+  },
+  {
+    "shayari": "Har subah mujhe tumhari yaadon se khushi milti hai, tumhare bina zindagi adhoori si lagti hai, tumse milne ke baad sab kuchh achha lagne lagta hai. (Every morning, memories of you bring me happiness, life feels incomplete without you, everything seems better after meeting you.)",
+    "topic": "Missing Someone",
+    "emotion": "Happiness"
+  },
+  {
+    "shayari": "Khushiyon ka saara sama tumhare saath hai, tumhare bina har lamha beeta hai, har baar jab tumhare saath hun, mujhe zindagi mein koi kami nahi lagti hai. (All the happiness is with you, every moment passes without you, every time I'm with you, I don't feel like anything is missing in life.)",
+    "topic": "Love",
+    "emotion": "Happiness"
+  },
+  {
+    "shayari": "Tumse milne ke baad duniya lagti hai jannat si, har cheez achhi lagne lagti hai, tumhare saath har pal khushiyan milti hain. (After meeting you, the world seems like heaven, everything seems good, every moment with you brings happiness.)",
+    "topic": "Love",
+    "emotion": "Joy"
+  },
+  {
+    "shayari": "Tere chehre pe muskurahat dekh kar, mere dil mein khushiyan bhar jaati hain, teri baatein sun kar, har tension bhool jaata hoon, teri har ada mujhe khushiyan deti hai. (Seeing a smile on your face fills my heart with happiness, listening to you makes me forget every tension, every gesture of yours brings me happiness.)",
+    "topic": "Love",
+    "emotion": "Joy"
+  },
+  {
+    "shayari": "Har khushi tumhare saath hai, tumhare bina jeena lagta hai bechain, tumhare muskurahat se meri zindagi khushiyon se bhari hui hai. (All the happiness is with you, life feels restless without you, my life is filled with happiness because of your smile.)",
+    "topic": "Love",
+    "emotion": "Happiness"
+  }
+
+,{    "shayari": "Dil ki har khwahish poori ho jaati hai, jab tum mere saath ho, har lamha khushiyon se bhara hota hai. (Every wish of my heart comes true when you're with me, every moment is filled with happiness.)",    "topic": "Love",    "emotion": "Happiness"  },  {    "shayari": "Teri muskurahat se meri zindagi roshan hai, har khushi tujhse milti hai, har gam tujhse jalta hai, teri har ada mujhe khushiyon se bhar deti hai. (My life is brightened by your smile, every happiness comes from you, every sorrow burns in your presence, every gesture of yours fills me with happiness.)",    "topic": "Love",    "emotion": "Joy"  },  {    "shayari": "Har subah jaise suraj ki roshni, tumhare saath mere zindagi mein khushiyan bhar jaati hain, tumhare bina adhoori si lagti hai. (Every morning, like the sun's rays, happiness fills my life with you, life feels incomplete without you.)",    "topic": "Love",    "emotion": "Happiness"  },  {    "shayari": "Har cheez mein khush raho, har pal bas muskurao, tumhari khushiyan meri khushiyan hai, tumhare bina zindagi bechain hai. (Stay happy in everything, just keep smiling every moment, your happiness is my happiness, life is restless without you.)",    "topic": "Love",    "emotion": "Happiness"  },  {    "shayari": "Jab tum mere paas hoti ho, har cheez achhi lagne lagti hai, tumhare muskurahat se meri zindagi khushiyon se bhari hui hai, tumse baat karne se mujhe bahut khushi milti hai. (When you're with me, everything seems good, my life is filled with happiness because of your smile, talking to you brings me a lot of joy.)",    "topic": "Love",    "emotion": "Joy"  }
+
+,{    "shayari": "Zindagi ki har subah tere saath khushi se bhari hoti hai, teri muskurahat se mera mann roshan hota hai, tu meri zindagi ka maksad hai. (Every morning of my life is filled with happiness with you, my heart lights up with your smile, you're the purpose of my life.)",    "topic": "Love",    "emotion": "Happiness"  },  {    "shayari": "Teri har baat mujhe khushiyon se bhar deti hai, teri har muskurahat meri zindagi roshan karti hai, tu meri zindagi mein khushi ka naya mausam hai. (Every word of yours fills me with happiness, your every smile brightens my life, you're a new season of happiness in my life.)",    "topic": "Love",    "emotion": "Joy"  },  {    "shayari": "Khushiyan tumse judi hain, har pal mein khush rahna chahta hoon, tumhare bina meri zindagi adhuri si lagti hai, bas tumhare saath khush rehna chahta hoon. (Happiness is related to you, I want to be happy every moment, my life feels incomplete without you, I just want to be happy with you.)",    "topic": "Love",    "emotion": "Happiness"  },  {    "shayari": "Teri har baat mujhe khushiyon se bhar deti hai, teri har muskurahat meri zindagi roshan karti hai, tu meri zindagi mein khushi ka naya mausam hai. (Every word of yours fills me with happiness, your every smile brightens my life, you're a new season of happiness in my life.)",    "topic": "Love",    "emotion": "Joy"  },  {    "shayari": "Tumhari muskurahat mere liye khushi ka ehsaas hai, tumhare saath rehna meri khwaish hai, tumhari khushi meri khushi hai, bas tumhare saath khush rehna chahta hoon. (Your smile is a feeling of happiness for me, being with you is my desire, your happiness is my happiness, I just want to be happy with you.)",    "topic": "Love",    "emotion": "Happiness"  }
+
+
+]
